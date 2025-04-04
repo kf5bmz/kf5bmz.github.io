@@ -45,4 +45,6 @@ art = {
       "GoodFriday" : "https://www.churchofjesuschrist.org/imgs/6951e535af9711ecbc9deeeeac1e65eca708dcd1/full/1280%2C/0/default",
       "Saturday" : "https://www.churchofjesuschrist.org/imgs/6936bc15af9711ecae2deeeeac1ec13163512fab/full/1280%2C/0/default",
       "EasterSunday" : "https://www.churchofjesuschrist.org/imgs/0e2c4b6889d711eca0b8eeeeac1ef0e6698f204e/full/800%2C/0/default",
+      "America" : "https://www.churchofjesuschrist.org/imgs/2c250636e64459e3a30c6324865c6b0a39bdb1f5/full/!1600%2C/0/default",
+      "FirstVision" : "https://content.churchofjesuschrist.org/acp/bc/Philippines/ORM-SEO/Joseph%20Smith%20and%20the%20First%20Vision%20/1200x1920/Joseph1stVision-r5x8-1_01.png"
        }
